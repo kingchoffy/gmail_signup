@@ -247,7 +247,6 @@ section div{
   }
 
   .container{
-    border: 1px solid red;
     margin:0;
     padding: 0;
     height: 100vh; 
@@ -255,7 +254,6 @@ section div{
 
   .wrapper{
     width: 100%;
-    border: 1px solid red;
     margin: 0;
     display: hidden;
     padding: 0;
