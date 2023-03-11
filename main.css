@@ -59,11 +59,11 @@ label[for="txt"] {
     height: 100vh;
     margin: 0 3em;
     text-align: center;
+    border: 1px solid white;
 }
 
 .wrapper{
     width: 70%;
-    border: 1px solid rgb(210, 204, 204);
     margin:2em 10em 0 10em;
     padding: 2em 3em 3em 2em;
     text-align: left;
@@ -334,7 +334,7 @@ font-size: 0.8rem;
 .footer li{
   display: inline-block;
   cursor: pointer;
-  margin-left: 1em;
+  margin-left: 1.2em;
 }
   
 }
